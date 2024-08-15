@@ -151,5 +151,47 @@ namespace Ejemplo1
             Console.Write("|");
             Console.WriteLine();
         }
+        public string EliminarV(int valor) //método para eliminar por valor
+        {
+            string cadena;
+            if (inicio == null) //verificar si la lista está vacía
+            {
+                cadena = "Lista vacía, no se puede eliminar elemento";
+            }
+            else
+            {
+                nodo punteroant = inicio, punteropost = inicio;
+                if (punteroant.dato == valor) //Si la eliminación está en la primera posición de la lista
+                {
+                    inicio = inicio.siguiente;
+                    cadena = "Dato eliminado";
+                }
+                else
+                {
+                    Boolean datoEliminado = false;
+                    while (punteropost.siguiente != null) //recorre la lista
+                    {
+                        punteroant = punteropost;
+                        punteropost = punteropost.siguiente;
+                        if (punteropost.dato == valor)
+                        {
+                            punteroant.siguiente = punteropost.siguiente;
+                            punteropost.siguiente = null;
+                            datoEliminado = true;
+                            break;
+                        }
+                    }
+                    if (datoEliminado == false)
+                    {
+                        cadena = "No se encontró el dato en la lista";
+                    }
+                    else
+                    {
+                        cadena = "Dato eliminado";
+                    }
+                }
+            }
+            return cadena;
+        }
     }
 }

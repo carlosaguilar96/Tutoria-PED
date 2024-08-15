@@ -45,6 +45,9 @@ namespace Ejemplo1
                     case 'g':
                         continuar = false;
                         break;
+                    case 'h':
+                        mensaje(milista.EliminarV(leerv()));
+                        break;
                     default:
                         mensaje("Error, opción no válida");
                         break;
@@ -62,6 +65,7 @@ namespace Ejemplo1
             Console.WriteLine("e.- Eliminar al final");
             Console.WriteLine("f.- Mostrar lista");
             Console.WriteLine("g.- Salir");
+            Console.WriteLine("h.- Eliminar por valor");
             Console.Write("> Ingresa tu opción: ");
             try
             {
@@ -70,7 +74,7 @@ namespace Ejemplo1
             }
             catch
             {
-                return 'h';
+                return 'i';
             }
         }
         static int leern()
@@ -91,6 +95,13 @@ namespace Ejemplo1
         {
             int valor;
             Console.Write("\n>Ingrese valor de la posición: ");
+            valor = Convert.ToInt32(Console.ReadLine());
+            return valor;
+        }
+        static int leerv()
+        {
+            int valor;
+            Console.Write("\n>Ingrese valor a eliminar: ");
             valor = Convert.ToInt32(Console.ReadLine());
             return valor;
         }
