@@ -1,0 +1,14 @@
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\bin\Debug\netcoreapp3.1\Ejemplo1.exe
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\bin\Debug\netcoreapp3.1\Ejemplo1.deps.json
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\bin\Debug\netcoreapp3.1\Ejemplo1.runtimeconfig.json
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\bin\Debug\netcoreapp3.1\Ejemplo1.runtimeconfig.dev.json
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\bin\Debug\netcoreapp3.1\Ejemplo1.dll
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\bin\Debug\netcoreapp3.1\Ejemplo1.pdb
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.AssemblyInfo.cs
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.dll
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.pdb
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo1\Ejemplo1\obj\Debug\netcoreapp3.1\Ejemplo1.genruntimeconfig.cache
