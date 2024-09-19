@@ -1,0 +1,4 @@
+﻿  Ejemplo5-ListaPolimorfica.cpp
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo5-ListaPolimorfica\Ejemplo5-ListaPolimorfica\Ejemplo5-ListaPolimorfica.cpp(79,21): warning C4101: 'nTotalE': variable local sin referencia
+C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo5-ListaPolimorfica\Ejemplo5-ListaPolimorfica\Ejemplo5-ListaPolimorfica.cpp(79,13): warning C4101: 'totalE': variable local sin referencia
+  Ejemplo5-ListaPolimorfica.vcxproj -> C:\Users\cmcar\OneDrive\Desktop\Tutoria-PED\Ejemplo5-ListaPolimorfica\Debug\Ejemplo5-ListaPolimorfica.exe
